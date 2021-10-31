@@ -1,0 +1,75 @@
+body
+{
+    background-color:black;
+    color: gold;
+    text-align: center;
+    margin-top: 30px
+    
+}
+.d-block
+{
+   height: 500px;
+}
+
+
+
+
+
+
+
+.carousel-indicators
+{
+    height: 25%;
+    width: 25%;
+}
+    
+
+.b
+{
+  color: brown; 
+  margin-left: 30px; 
+}
+p{
+    color:black;
+}
+.c
+{
+  margin-left: 50%; 
+  background-color: white; 
+}
+.d
+{
+ margin-left: 70%; 
+ background-color: white;  
+}
+.e{
+    background-color: white;
+    margin-top: 30%;
+    margin-left: 20%;
+}
+
+.f{
+    background-color: white;
+    margin-top: 30%;
+    margin-bottom: 25px;
+    margin-left: 35%;
+}
+.g
+{
+    background-color: white;
+    margin-left: 45%;
+    margin-top: 30%;
+    
+}
+footer{
+    color: white;
+    background-color: rebeccapurple;
+}
+h4{
+    text-align: center;
+}
+
+
+    
+
+
